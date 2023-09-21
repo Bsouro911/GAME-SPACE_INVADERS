@@ -1,5 +1,6 @@
-
 # A 2-D Space Invader game in python using pygame module
+
+<img width="956" alt="thumbnail" src="https://github.com/Bsouro911/GAME-SPACE_INVADERS/assets/121687237/082ac21d-00ec-4164-a756-29fc61acccd5">
 
 The project is an example that was built along with a Youtube Video showing to create a space invader game using pygame module in python programming language. The basic structure of the program is as follows:
 
